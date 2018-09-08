@@ -2,3 +2,7 @@
 function theBeatlesPlay(musicians, instruments){
   
 }
+
+johnLennonFacts([]){
+  
+}
