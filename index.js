@@ -30,7 +30,8 @@ function iLoveTheBeatles(num){
 // }
 
 do {
-  array.push("I love the Beatles!")
+  array.push("I love the Beatles!");
+  num++
   // console.log('array.length = ' + array.length + ' and i = ' + i);
   // array = array.slice(1);
   // incrementVariable();
