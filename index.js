@@ -10,11 +10,12 @@ function theBeatlesPlay(musicians, instruments){
     return newArray
 }
 
-// function johnLennonFacts([]){
-//
-// }
-//
-//
+// while loop
+function johnLennonFacts([]){
+
+}
+
+
 // function iLoveTheBeatles(){
 //
 // }
