@@ -24,4 +24,16 @@ function johnLennonFacts(array){
 
 function iLoveTheBeatles(num){
   var array = [];
+
+//   function incrementVariable() {
+//   i = i + 1;
+// }
+
+do {
+  // console.log('array.length = ' + array.length + ' and i = ' + i);
+  // array = array.slice(1);
+  // incrementVariable();
+} while (/*array.length > 0 && i < 5*/);
+
+return array;
 }
