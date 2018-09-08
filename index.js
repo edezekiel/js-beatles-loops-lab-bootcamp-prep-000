@@ -19,7 +19,7 @@ function johnLennonFacts(array){
   i++
   newArray.push(array[i] + "!!!")
   }
-  return array
+  return newArray
 }
 
 
