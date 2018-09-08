@@ -35,5 +35,5 @@ do {
   // incrementVariable();
 } while (/*array.length > 0 && i < 5*/);
 
-return array;
+return ;
 }
