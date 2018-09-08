@@ -2,12 +2,12 @@
 function theBeatlesPlay(musicians, instruments){
 
 }
-
-function johnLennonFacts([]){
-
-}
-
-
-function iLoveTheBeatles(){
-  
-}
+// 
+// function johnLennonFacts([]){
+//
+// }
+//
+//
+// function iLoveTheBeatles(){
+//
+// }
