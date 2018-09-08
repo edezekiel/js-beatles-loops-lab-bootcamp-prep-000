@@ -12,7 +12,10 @@ function theBeatlesPlay(musicians, instruments){
 
 // while loop
 function johnLennonFacts(array){
-
+  while (){
+    
+  }
+  return 
 }
 
 
